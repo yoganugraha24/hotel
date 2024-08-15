@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/hotel/static/css/main.0da730b7.css",
+    "main.js": "/github.io/hotel/static/js/main.bee9e6dc.js",
+    "static/media/hero.jpg": "/github.io/hotel/static/media/hero.7d38cba3681dd57600b3.jpg",
+    "static/media/gallery-2.jpg": "/github.io/hotel/static/media/gallery-2.7e322ff0b28a3d467f0c.jpg",
+    "static/media/gallery-1.jpg": "/github.io/hotel/static/media/gallery-1.e2c8eb140828649e5568.jpg",
+    "static/media/gallery-3.jpg": "/github.io/hotel/static/media/gallery-3.93b32d1966c5ea8b8a0d.jpg",
+    "static/media/gallery-6.jpg": "/github.io/hotel/static/media/gallery-6.0508e023391885baa14c.jpg",
+    "static/media/gallery-5.jpg": "/github.io/hotel/static/media/gallery-5.04a9add03f77796223eb.jpg",
+    "static/media/gallery-4.jpg": "/github.io/hotel/static/media/gallery-4.eee9c9106717e343a369.jpg",
+    "index.html": "/github.io/hotel/index.html",
+    "main.0da730b7.css.map": "/github.io/hotel/static/css/main.0da730b7.css.map",
+    "main.bee9e6dc.js.map": "/github.io/hotel/static/js/main.bee9e6dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da730b7.css",
+    "static/js/main.bee9e6dc.js"
+  ]
+}
